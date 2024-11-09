@@ -1,0 +1,33 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Subtract the given numbers using the column method.",
+    "options":["2","0","1","0","",""],
+    "answers": ["2","0","1","0","1","0"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Subtract  the given numbers and Fill in the answer in the empty boxes.",
+    "options":["2","3","1","1","",""],
+    "answers": ["2","3","1","1","1","2"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Find the difference by filling in the numbers in empty boxes.",
+    "options":["4","4","0","2","",""],
+    "answers": ["4","4","0","2","4","2"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Subtract the given numbers and fill in the answer in the empty boxes.",
+    "options":["1","6","1","1","",""],
+    "answers": ["1","6","1","1","0","5"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Subtract  the given numbers and Fill in the answer in the empty boxes.",
+    "options":["2","7","0","2","",""],
+    "answers": ["2","7","0","2","2","5"]
+  }
+]
